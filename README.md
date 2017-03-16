@@ -4,7 +4,7 @@
 * The application provides real time stock information to the user by consuming public finance APIs like Yahoo and also allows a user to buy and sell stocks virtually.
 * The application was developed following the agile practices defined in Scrum.
 
-
+![Stock Market Trading Simulator](/ScreenImages/LoginPage.jpg?raw=true)
 
 ### Technologies
 * Frontend - HTML5, Bootstrap, JQuery
